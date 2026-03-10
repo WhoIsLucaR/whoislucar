@@ -3,10 +3,6 @@
 <body>
 <!DOCTYPE html>
 <html>
-<head>
-<title>Moja strona</title>
-<meta charset="UTF-8">
-</head>
 
 <body>
 
