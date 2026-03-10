@@ -10,7 +10,3 @@
     src="https://www.canva.com/design/DAHDj_u9xdA/FKP_baDBHtI3u86YNnfUXA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-
-
-
-</html>
